@@ -1,0 +1,4 @@
+build
+.srclib-cache
+.gradle
+.gradle-srclib
